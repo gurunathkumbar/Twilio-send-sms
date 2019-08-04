@@ -1,0 +1,8 @@
+/Users/gkumbar/Downloads/demo Twilio/src/main/java/com/sendsms/demo/DemoApplication.java
+/Users/gkumbar/Downloads/demo Twilio/src/main/java/com/sendsms/demo/entity/SmsRequest.java
+/Users/gkumbar/Downloads/demo Twilio/src/main/java/com/sendsms/demo/config/TwilioConfiguration.java
+/Users/gkumbar/Downloads/demo Twilio/src/main/java/com/sendsms/demo/SmsSender.java
+/Users/gkumbar/Downloads/demo Twilio/src/main/java/com/sendsms/demo/Service/Service.java
+/Users/gkumbar/Downloads/demo Twilio/src/main/java/com/sendsms/demo/TwilioInitializer.java
+/Users/gkumbar/Downloads/demo Twilio/src/main/java/com/sendsms/demo/Service/TwilioSmsSender.java
+/Users/gkumbar/Downloads/demo Twilio/src/main/java/com/sendsms/demo/Controller/TwilioController.java
